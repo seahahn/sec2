@@ -1,4 +1,4 @@
-# CodeStates AIB Section 2 - Machine Learning
+# 서울 아파트 고가주택 여부 예측을 위한 머신 러닝 모델 제작
 
 ## 프로젝트 결과물
 
@@ -8,18 +8,21 @@
 ## 학습 내용
 
 1. 머신 러닝 모델
-  - Linear Regression
-  - Ridge Regression
-  - Logistic Regression
-  - Decision Tree
-  - Random Forest
-  - Boosting
+
+- Linear Regression
+- Ridge Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Boosting
 
 2. 모델 튜닝
-  - RandomizedSearchCV
-  - GridSearchCV
+
+- RandomizedSearchCV
+- GridSearchCV
 
 3. 모델 해석
-  - 순열 중요도
-  - PDP
-  - SHAP
+
+- 특성/순열 중요도
+- PDP
+- SHAP
